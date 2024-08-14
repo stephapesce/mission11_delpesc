@@ -1,33 +1,13 @@
-Online Bookstore Web App
-Description
-This project involves creating a web application for an online bookstore using ASP.NET Core MVC. The primary focus of this assignment is to develop the database portion of the application and implement basic functionality for listing books with pagination.
-
-Features
-Database Model: The database includes the following fields for each book:
-
-Title
-Author
-Publisher
-ISBN
-Classification/Category
-Number of Pages
-Price
-All fields are required.
-
-Index View: Displays a list of books with pagination. By default, 10 books are shown per page.
-
-Styling: The page is styled using Bootstrap. 
-
-Setup
-Database: Scaffold the database from the provided link:
-Download Database
-
-Model Verification: Check the created model and make any necessary corrections.
-
-Pagination: Implement pagination to list 10 books per page.
-
-Bootstrap Styling: Apply Bootstrap styles to enhance the visual layout of the page.
-
-Notes
-The database has been prepopulated with a selection of Prof. Hilton’s favorite books.
-Scaffolding for the database has been included as part of the setup process.
+ASP.NET Core MVC, focus on creating the database portion of the web app.
+Web app for an online bookstore. For each book, the following info is stored:
+• Title
+• Author
+• Publisher
+• ISBN
+• Classification/Category
+• Number of Pages
+• Price
+Scaffold the database
+The Index view lists out the information for each book in the database. 
+Pagination to the app, 10 books per page for as many books as are in the database.
+Style using Bootstrap. 
