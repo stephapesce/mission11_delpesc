@@ -16,7 +16,7 @@ All fields are required.
 
 Index View: Displays a list of books with pagination. By default, 10 books are shown per page.
 
-Styling: The page is styled using Bootstrap, following the guidance from the videos or the “Applying Bootstrap Styles” section in Chapter 7 of the Freeman book (pages 152-154).
+Styling: The page is styled using Bootstrap. 
 
 Setup
 Database: Scaffold the database from the provided link:
